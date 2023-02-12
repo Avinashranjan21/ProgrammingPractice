@@ -22,11 +22,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Design Patterns by Category
 
-| Category | Design Patterns |
-|----------|-----------------|
-| Creational | Singleton, Factory, Abstract Factory, Builder, Prototype |
-| Structural | Bridge, Adapter, Decorator, Facade, Flyweight, Proxy |
-| Behavioral | Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor |
+| Category | Design Patterns                                                                                                                                                                     |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Creational | Singleton, Factory, Abstract Factory, Builder, Prototype, Lazy initialisation                                                                                                       |
+| Structural | Bridge, Adapter, Decorator, Facade, Composite, Proxy                                                                                                                                |
+| Behavioral | Observer, Chain of Responsibility, Command, Strategy,State, Visitor, Mediator, Memento|
 
 ## Data Structures
 
