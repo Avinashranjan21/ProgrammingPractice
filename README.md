@@ -20,30 +20,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Design Patterns
 
-The repository contains examples of the following design patterns:
+## Design Patterns by Category
 
-- Singleton
-- Factory
-- Abstract Factory
-- Builder
-- Prototype
-- Bridge
-- Adapter
-- Decorator
-- Facade
-- Flyweight
-- Proxy
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
+| Category | Design Patterns |
+|----------|-----------------|
+| Creational | Singleton, Factory, Abstract Factory, Builder, Prototype |
+| Structural | Bridge, Adapter, Decorator, Facade, Flyweight, Proxy |
+| Behavioral | Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor |
 
 ## Data Structures
 
